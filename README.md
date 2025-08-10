@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>🚀 Una aplicación web moderna para gestionar tu colección de videojuegos</h3>
-  <p><strong>Desarrollado por Eric Ramirez (Eric.Raw)</strong></p>
+  <p><strong>Desarrollado por Eric Ramirez (Ericc.Raw)</strong></p>
 </div>
 
 ---
